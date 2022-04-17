@@ -51,6 +51,7 @@ tr:hover {
 }
 
 #myInput {
+    font-family: 'Times New Roman', Times, serif;
     position: relative;
     top: 0%;
     left: 48vw;
