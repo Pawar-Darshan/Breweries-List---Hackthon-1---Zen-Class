@@ -75,10 +75,10 @@ input:hover {
 
 ::placeholder {
     position: absolute;
-    top: 15px;
+    top: 10px;
     left: 15px;
     color: white;
-    font-weight: 500;
+    font-weight: 200;
     text-transform: capitalize;
     font-size: 18px;
 }
